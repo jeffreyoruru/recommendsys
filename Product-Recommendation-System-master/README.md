@@ -5,9 +5,6 @@ Dataset :- About two and half years of data used for this project and is uploade
 
 Used Flask web framework in Python to publish the results on a web page
 
-Link to the web application :- https://product-recommendation-system.herokuapp.com/
-
-About the Project :- https://youtu.be/0FCxHEc_e8Q (This video provides an understanding about the company and the project)
 
 
 # Program Files
